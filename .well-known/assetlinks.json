@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.malin.deegaan",
+    "sha256_cert_fingerprints":
+    ["87:14:9a:fe:16:73:d6:a8:4c:b4:d5:24:1f:83:33:19:16:58:c1:b3:65:00:af:63:6a:e5:08:cb:fc:52:b4:34"]
+  }
+}]
